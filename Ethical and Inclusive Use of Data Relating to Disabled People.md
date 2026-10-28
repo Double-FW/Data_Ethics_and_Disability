@@ -470,19 +470,13 @@ This may include:
 
 Whenever possible, organisations should share:
 
-Plain Text
-
 Insight
 
 not Identity
 
-Plain Text
-
 Knowledge
 
 not Surveillance
-
-Plain Text
 
 Evidence
 
