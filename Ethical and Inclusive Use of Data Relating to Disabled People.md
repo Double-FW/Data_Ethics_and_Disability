@@ -119,8 +119,6 @@ The more specific data becomes about an individual's disability, the stronger th
 
 A preferred model is:
 
-Plain Text
-
 Collect
 
 ↓
@@ -136,8 +134,6 @@ Analyse
 Discard individual identifiers
 
 Rather than:
-
-Plain Text
 
 Collect
 
@@ -167,8 +163,6 @@ Examples include:
 
 Where possible:
 
-Plain Text
-
 User
 
 ↓
@@ -180,8 +174,6 @@ Aggregation
 Organisation
 
 is preferable to:
-
-Plain Text
 
 User
 
