@@ -3,6 +3,8 @@
 ## Project overview
 This repository documents ethical considerations related to the use of disabled customer data. The project is primarily documentation-focused and centers on research, analysis, policy discussion, and clear explanations of responsible data practices.
 
+https://github.com/Double-FW/Data_Ethics_and_Disability
+
 ## Repository conventions
 - Prefer Markdown for documentation updates and discussion content.
 - Keep the README and other top-level documentation aligned with the repository's purpose.
