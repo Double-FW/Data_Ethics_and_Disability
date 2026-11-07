@@ -4,7 +4,7 @@ The ethical use of disabled customer data.
 
 ## What this repository covers
 
-This repository brings together practical guidance for using data related to disabled people in a fair, privacy-preserving, and dignity-respecting way. It is designed to support organisations that need accessibility insight without turning disabled people into surveillance subjects or data profiles.
+This repository brings together practical guidance for using data related to disabled people in a fair, privacy-preserving, and dignity-respecting way. It is designed to support organisations that need to understand accessibility barriers and improve outcomes without turning people into profiles or treating accessibility as a reason for surveillance.
 
 It includes:
 
@@ -37,13 +37,12 @@ This guidance can inform and strengthen:
 
 ## Related Double-FW repositories
 
-- [Accessibility Behavioural Intelligence Framework](https://github.com/Double-FW/Accessibility-Behavioural-Intelligence-Framework)
-- [SWOT Governance Framework for Accessibility and Inclusion](https://github.com/Double-FW/SWOT-Governance-Framework-for-Accessibility-and-Inclusion)
-- [Balanced Scorecard Framework for Accessibility and Inclusion](https://github.com/Double-FW/Balanced-Scorecard-Framework-for-Accessibility-and-Inclusion)
-- [Mobile-First Accessible Design Guidance](https://github.com/Double-FW/Mobile-First-Accessible-Design-Guidance)
-- [Games Accessibility Guidelines](https://github.com/Double-FW/Games-Accessibility-Guidelines)
-- [Accessibility Champions](https://github.com/Double-FW/Accessibility-Champions)
-- [POUR for Branding Systems and CX](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX)
+- [Inclusion and Accessibility Policy](https://github.com/Double-FW/Inclusion-and-Accessibility-Policy) — policy development, governance, and accountability.
+- [AI Accessibility Maturity Model](https://github.com/Double-FW/AI-Accessibility-Maturity-Model) — organisational maturity across data, AI, ethics, and inclusion.
+- [The Little Book of Accessibility](https://github.com/Double-FW/The-Little-Book-of-Accessibility) — broader accessibility guidance.
+- [Executive and Organisational Commitments](https://github.com/Double-FW/Executive-and-Organisational-Commitments) — disability inclusion commitments and organisational accountability.
+- [Accessibility Champions](https://github.com/Double-FW/Accessibility-Champions) — establishing and governing an accessibility champions network.
+- [POUR for Branding Systems and CX](https://github.com/Double-FW/POUR-for-Branding-Systems-and-CX) — emotional outcomes and accessibility in branding and customer experience.
 
 ## License
 
